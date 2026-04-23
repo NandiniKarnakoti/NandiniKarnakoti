@@ -50,7 +50,7 @@
 
 <p align="center">
 
-1700+ Problems Solved • LeetCode 1700 • Rank 1  
+1700+ Problems Solved • LeetCode 1700 • Rank 1 on College Leaderboard (CampusTechTrack)  
 Research Publications • Internships • Strong DSA  
 
 </p>
