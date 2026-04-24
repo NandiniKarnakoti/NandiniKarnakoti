@@ -50,7 +50,8 @@
 
 <p align="center">
 
-1700+ Problems Solved • LeetCode 1700 • Rank 1 on College Leaderboard (CampusTechTrack)  
+1700+ Problems Solved • LeetCode 1700 • Rank 1 on College Leaderboard (CampusTechTrack) 
+
 Research Publications • Internships • Strong DSA  
 
 </p>
@@ -105,9 +106,8 @@ Seismic Data Analysis & Earthquake Prediction using ML (Springer)
 ## 💭 SYSTEM PHILOSOPHY
 
 <p align="center">
-  <i>"Code is my tool. Logic is my language. Impact is my mission."</i>
+  <i>Exploring patterns, building intelligence, solving what matters.</i>
 </p>
-
 ---
 
 <p align="center">
