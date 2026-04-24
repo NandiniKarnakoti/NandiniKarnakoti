@@ -71,7 +71,7 @@ Research Publications • Internships • Strong DSA
 <p align="center">
 
 🔗 <a href="https://digitalmanuscriptpedia.com/conferences/index.php/DMP-LNCSE/article/view/141">
-Automated Student Document Analysis & Query System (OCR + Conversational AI)
+Automated Student Document Analysis and Query System using OCR and Conversational AI (DMP-LNCSE)
 </a><br>
 
 🔗 <a href="https://ieeexplore.ieee.org/document/10940613">
