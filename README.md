@@ -108,7 +108,6 @@ Seismic Data Analysis & Earthquake Prediction using ML (Springer)
 <p align="center">
   <i>Exploring patterns, building intelligence, solving what matters.</i>
 </p>
----
 
 <p align="center">
   <i>Learn. Build. Innovate. Repeat.</i>
