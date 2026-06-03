@@ -61,7 +61,7 @@ Research Publications • Internships • Strong DSA
 ## ⚙️ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,nodejs,mongodb,mysql,aws,gcp,git,docker,linux"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,react,nodejs,mongodb,mysql,aws,gcp,git,docker,linux"/>
 </p>
 
 ---
