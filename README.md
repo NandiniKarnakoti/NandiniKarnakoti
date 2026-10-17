@@ -90,13 +90,14 @@ Seismic Data Analysis & Earthquake Prediction using ML (Springer)
 ## 📈 ACTIVITY VISUALIZATION
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/00F7FF/NandiniKarnakoti"
-    alt="Nandini's GitHub Contribution Graph"
-    width="100%"
-  />
+  <a href="https://github.com/NandiniKarnakoti">
+    <img
+      src="https://github-readme-activity-graph-fzdonv05t.vercel.app/graph?username=NandiniKarnakoti&amp;bg_color=0D1117&amp;color=00F7FF&amp;title_color=00F7FF&amp;line=00F7FF&amp;point=FFFFFF&amp;area=true&amp;hide_border=true"
+      alt="Nandini's GitHub Activity Line Graph"
+      width="100%"
+    />
+  </a>
 </p>
-
 ---
 
 ## 🐍 LIVE ACTIVITY STREAM
