@@ -91,8 +91,8 @@ Seismic Data Analysis & Earthquake Prediction using ML (Springer)
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NandiniKarnakoti&amp;bg_color=0d1117&amp;color=00F7FF&amp;line=00F7FF&amp;point=FFFFFF&amp;area=true&amp;hide_border=true"
-    alt="GitHub Contribution Activity Graph"
+    src="https://github-readme-activity-graph.hysenlabs.com/graph?username=NandiniKarnakoti"
+    alt="GitHub Activity Graph"
     width="100%"
   />
 </p>
