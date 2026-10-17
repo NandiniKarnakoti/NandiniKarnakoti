@@ -90,11 +90,7 @@ Seismic Data Analysis & Earthquake Prediction using ML (Springer)
 ## 📈 ACTIVITY VISUALIZATION
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.hysenlabs.com/graph?username=NandiniKarnakoti"
-    alt="GitHub Activity Graph"
-    width="100%"
-  />
+  <img src="https://activity-graph.herokuapp.com/graph?username=NandiniKarnakoti&theme=react-dark" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---
